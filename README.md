@@ -1,5 +1,5 @@
 # ms-calc - Calculadora em microserviços
-calculadora em microserviços, este repositório agrupa os outros repositórios e as operações
+Este repositório agrupa os outros repositórios e as operações suportadas ou projetadas.
 
 ## operações e repositórios associados
 
